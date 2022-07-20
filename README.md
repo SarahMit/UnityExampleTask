@@ -4,7 +4,12 @@ These tasks are designed to test out necessary skills concerning scripting, ray 
 
 ### Preparation
 * Install Unity 2021.3.6f1 LTS
-* Clone the GitHub Repository
+   * Install [Unity Hub](https://unity3d.com/get-unity/download) first
+   * Open Unity Hub and install the desired Unity version 
+* Fork the GitHub repository
+   * using the button on the website (upper right corner)
+* then Clone the forked repository
+   * Using a programm like [GitHub Desktop](https://desktop.github.com/) is recommended
 
 ### Getting to know Scripting and UI Elements
 * Create a 3D Cube
@@ -24,16 +29,19 @@ These tasks are designed to test out necessary skills concerning scripting, ray 
 
 →  this is what your scene might look like so far:
 
+![capture1](https://github.com/SarahMit/UnityExampleTask/blob/main/instruction/capture1.PNG)
+
 
 ### Working with the Shader Graph
 * Create a Sphere
 * Create a new shader graph
-* In the shader graph include the node "Fresnel Effect" (see left image)
+* In the shader graph include the node "Fresnel Effect" (see left image below)
 * Use it to color the sphere (see example image on the right side)
      * There should be a color gradient between two colors
      * The “inner” area of the sphere should have another color than the outer areas
      * You might need the shader graph nodes called “color”, “multiply”, “subtract”, and “add” but you can also find another way to solve this.
      
+![capture2](https://github.com/SarahMit/UnityExampleTask/blob/main/instruction/capture2.PNG)
      
 ### Ray Casting and Data Structures
 * Create a new scene and work in it to perform the following steps
@@ -46,4 +54,3 @@ These tasks are designed to test out necessary skills concerning scripting, ray 
 ### Save your Work
 * Commit your work to the repository
 * Push your work
-
