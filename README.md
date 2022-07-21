@@ -10,6 +10,8 @@ These tasks are designed to test out necessary skills concerning scripting, ray 
    * using the button on the website (upper right corner)
 * then Clone the forked repository
    * Using a programm like [GitHub Desktop](https://desktop.github.com/) is recommended
+   
+→ If you struggle too much with GitHub, just ask me for help before you spend multiple days on it. Although we need Git, it is way more important that you spend most of the time to get to know Unity. 
 
 ### Getting to know Scripting and UI Elements
 * Create a 3D Cube
